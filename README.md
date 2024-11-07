@@ -50,19 +50,12 @@ Por ejemplo, el texto:
 
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/texto-encriptador.git
+   git clone https://github.com/Jeburga/Encriptador-Challenge.git
    ```
 2. **Abre el archivo `index.html` en tu navegador favorito.**
 3. ¡Listo! Ahora puedes encriptar y desencriptar mensajes.
 
 ---
 
-## 👨‍💻 **Contribuciones**
-¡Las contribuciones son bienvenidas! Si tienes ideas o encuentras errores:
-1. Haz un **fork** del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcion`).
-3. Realiza tus cambios y haz un **commit** (`git commit -m 'Añadí nueva función'`).
-4. Envía un **pull request**.
-
-- **[Tu Nombre](https://github.com/tu-usuario)**  
+- **[Tu Nombre](https://github.com/Jeburga)** 
   Apasionado por la tecnología y el aprendizaje continuo. 🧑‍💻

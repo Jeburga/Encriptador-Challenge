@@ -1,6 +1,6 @@
 # 🔐 **Texto Encriptador**
 
-![Project Demo](https://via.placeholder.com/800x400?text=Texto+Encriptador+Preview)
+![Project Demo]
 
 ## 📝 **Descripción**
 
@@ -57,5 +57,5 @@ Por ejemplo, el texto:
 
 ---
 
-- **[Tu Nombre](https://github.com/Jeburga)** 
+- **[Jesus Burga](https://github.com/Jeburga)** 
   Apasionado por la tecnología y el aprendizaje continuo. 🧑‍💻

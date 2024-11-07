@@ -1,7 +1,5 @@
 # 🔐 **Texto Encriptador**
 
-![Project Demo]
-
 ## 📝 **Descripción**
 
 **Texto Encriptador** es una aplicación web sencilla diseñada para encriptar y desencriptar mensajes de texto utilizando un conjunto de reglas predefinidas. Ideal para aprender sobre manipulación de texto en JavaScript, diseño responsivo con CSS y buenas prácticas en desarrollo front-end. ¡Transforma tus mensajes y diviértete desencriptándolos!

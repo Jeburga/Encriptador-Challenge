@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&display=swap" rel="stylesheet">
+    <title>Texto Encriptador</title>
+</head>
+<body>
+    <header>
+        <img class="logo" src="Imagenes/Logo.svg" alt="Logo">
+    </header>
+    <main>
+        <section class="text-input-section">
+            <textarea placeholder="Ingrese texto aquí" class="text-input"></textarea>
+            <p class="warning">Solo letras minúsculas y sin acentos</p>
+            <div class="buttons">
+                <button class="btn encrypt">Encriptar</button>
+                <button class="btn decrypt">Desencriptar</button>
+            </div>
+        </section>
+        <section class="result-section">
+            <img src="Imagenes/Muñeco.svg" alt="Muñeco" class="placeholder-img">
+            <h3 class="placeholder-title">Ningún mensaje fue encontrado</h3>
+            <p class="placeholder-text">Ingresa el texto que deseas encriptar o desencriptar.</p>
+            <div class="output">
+                <p class="result-text"></p>
+            </div>
+            <button class="btn copy">Copiar</button>
+        </section>
+    </main>
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>
